@@ -2,9 +2,6 @@ package com.lihui.activemp;
 
 import org.apache.activemq.ActiveMQConnection;
 import org.apache.activemq.ActiveMQConnectionFactory;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import javax.jms.*;
 
 /**
